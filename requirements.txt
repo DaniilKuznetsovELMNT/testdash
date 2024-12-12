@@ -3,4 +3,3 @@ numpy
 streamlit
 fbprophet
 plotly.express
-plotly.graph_objects
